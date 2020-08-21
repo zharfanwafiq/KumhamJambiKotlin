@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KumhamJambi</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_user">User</string>
+</resources>
